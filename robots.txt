@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://palonso.me/sitemap.xml
+Sitemap: https://palonso.github.io/palonso.github.io//sitemap.xml
