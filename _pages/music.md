@@ -7,7 +7,6 @@ nav_order: 4
 description: Musical projects, collaborations, and works for other bands.
 ---
 
-
 ## My projects
 
 ### Llevólu'l Sumiciu
@@ -24,7 +23,7 @@ We mix elements of the traditional Asturian music, imaginary and mythology with 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3015086417/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://llevolulsumiciu.bandcamp.com/album/enta-na">ENTAÍNA by Llevólu'l Sumiciu</a></iframe>
 
 - Protesta animal (2022): composition, and production.
-[Available here](https://orcd.co/al-son-del-cantar).
+  [Available here](https://orcd.co/al-son-del-cantar).
 
 ### Ubin
 

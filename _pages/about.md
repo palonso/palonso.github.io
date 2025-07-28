@@ -24,7 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 I'm a postdoctoral researcher at the [Music Technology Group (MTG), Universitat Pompeu Fabra](https://www.upf.edu/web/mtg/), where I focus on self-supervised learning and multimodal (text/audio) approaches for music understanding.
 
 Since 2018, I've been a core developer of [Essentia](https://essentia.upf.edu/), an open-source C++/Python library for audio and music analysis. I’ve also led research and development efforts in industrial collaborations with La Cupula Music (audio quality assessment) and Huawei (transfer learning for music classification).
