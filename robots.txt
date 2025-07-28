@@ -1,5 +1,4 @@
 User-agent: *
+Disallow:
 
-Disallow: /norobots/
-
-Sitemap: https://palonso.github.io/sitemap.xml
+Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
