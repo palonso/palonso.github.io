@@ -28,7 +28,7 @@ I'm a postdoctoral researcher at the [Music Technology Group (MTG), Universitat 
 
 Since 2018, I've been a core developer of [Essentia](https://essentia.upf.edu/), an open-source C++/Python library for audio and music analysis. I've also led research and development efforts in industrial collaborations with La Cupula Music (audio quality assessment) and Huawei (transfer learning for music classification).
 
-During my PhD, I worked on [weakly supervised audio representation learning for music classification tasks](https://doi.org/10803/692389).
+During [my PhD](https://doi.org/10803/692389), I worked on weakly supervised audio representation learning for music classification tasks.
 As part of this, I developed [Essentia Models](https://essentia.upf.edu/models.html), a model hub integrated into Essentia that hosts several music classification models based on my research.
 
 In my free time, I enjoy playing guitar and producing electronic music.
