@@ -7,7 +7,6 @@ nav_order: 4
 description: My projects, collaborations, and work as sound engineer.
 ---
 
-
 ## Llevólu'l Sumiciu
 
 <div class="col-sm mt-3 mt-md-0">
