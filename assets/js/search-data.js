@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-music",
           title: "music",
-          description: "Musical projects, collaborations, and works for other bands.",
+          description: "My projects, collaborations, and work as sound engineer.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/palonso.github.io/music/";
@@ -126,30 +126,4 @@ ninja.data = [{
         handler: () => {
           window.open("https://twitter.com/pablo__alonso", "_blank");
         },
-      },{
-      id: 'light-theme',
-      title: 'Change theme to light',
-      description: 'Change the theme of the site to Light',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("light");
-      },
-    },
-    {
-      id: 'dark-theme',
-      title: 'Change theme to dark',
-      description: 'Change the theme of the site to Dark',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("dark");
-      },
-    },
-    {
-      id: 'system-theme',
-      title: 'Use system default theme',
-      description: 'Change the theme of the site to System Default',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("system");
-      },
-    },];
+      },];
