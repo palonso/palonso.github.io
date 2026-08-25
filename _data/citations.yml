@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-08-24'
 papers:
   6CUexcEAAAAJ:0EnyYjriUFMC:
     citations: 15
     title: 'MusAV: A dataset of relative arousal-valence annotations for validation of audio models'
     year: '2022'
   6CUexcEAAAAJ:3fE2CSJIrl8C:
-    citations: 12
+    citations: 10
     title: 'mir_ref: A representation evaluation framework for music information retrieval tasks'
     year: '2023'
   6CUexcEAAAAJ:4TOpqqG69KYC:
@@ -30,19 +30,19 @@ papers:
     title: 'ManyMusic: An open-access music audio dataset for human experiments on musical emotions'
     year: '2025'
   6CUexcEAAAAJ:MXK_kJrjxJIC:
-    citations: 17
+    citations: 16
     title: Efficient Supervised Training of Audio Transformers for Music Representation Learning
     year: '2023'
   6CUexcEAAAAJ:Se3iqnhoufwC:
-    citations: 14
+    citations: 15
     title: Ambiguity modelling with label distribution learning for music classification
     year: '2022'
   6CUexcEAAAAJ:UebtZRa9Y70C:
-    citations: 23
+    citations: 26
     title: Multilabel Prototype Generation for data reduction in K-Nearest Neighbour classification
     year: '2023'
   6CUexcEAAAAJ:YOwf2qJgpHMC:
-    citations: 6
+    citations: 8
     title: Evaluation of deep audio representations for semantic sound similarity
     year: '2024'
   6CUexcEAAAAJ:YsMSGLbcyi4C:
@@ -58,7 +58,7 @@ papers:
     title: Essentia in the browser
     year: Unknown Year
   6CUexcEAAAAJ:_kc_bZDykSQC:
-    citations: 3
+    citations: 6
     title: 'OMAR-RQ: Open Music Audio Representation Model Trained with Multi-Feature Masked Token Prediction'
     year: '2025'
   6CUexcEAAAAJ:eQOLeE2rZwMC:
@@ -66,11 +66,11 @@ papers:
     title: Tensorflow Audio Models in Essentia
     year: '2020'
   6CUexcEAAAAJ:hqOjcs7Dif8C:
-    citations: 36
+    citations: 39
     title: Music Representation Learning Based on Editorial Metadata from Discogs
     year: '2022'
   6CUexcEAAAAJ:kNdYIx-mwKoC:
-    citations: 12
+    citations: 13
     title: Leveraging pre-trained autoencoders for interpretable prototype learning of music audio
     year: '2024'
   6CUexcEAAAAJ:roLk4NBRz8UC:
