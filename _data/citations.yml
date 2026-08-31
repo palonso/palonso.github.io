@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-31'
 papers:
   6CUexcEAAAAJ:0EnyYjriUFMC:
     citations: 15
@@ -74,7 +74,7 @@ papers:
     title: Leveraging pre-trained autoencoders for interpretable prototype learning of music audio
     year: '2024'
   6CUexcEAAAAJ:roLk4NBRz8UC:
-    citations: 20
+    citations: 21
     title: Audio and Music Analysis on the Web using Essentia.js
     year: '2021'
   6CUexcEAAAAJ:ufrVoPGSRksC:
